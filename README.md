@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Dynamic Pagination](https://medium.com/@ahmedesa/laravel-dynamic-pagination-898a7d4f5fe4?source=rss-4cc4d6d34b75------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
