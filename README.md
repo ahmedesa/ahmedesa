@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **PHP , Laravel**
+- 💬 Ask me about **PHP ,Laravel**
 
 - 📫 How to reach me **ahmedesa6120@gmail.com**
 
