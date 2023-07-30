@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Esa</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
