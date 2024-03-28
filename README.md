@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Automated Laravel Deployment to cPanel via GitLab CI/CD and Envoy](https://medium.com/@ahmedesa/automated-laravel-deployment-to-cpanel-via-gitlab-ci-cd-and-envoy-c2aaaff96a70?source=rss-4cc4d6d34b75------2)
 - [How to Use Amazon SES V2 in Laravel: Benefits and Implementation Guide](https://medium.com/@ahmedesa/how-to-use-amazon-ses-v2-in-laravel-benefits-and-implementation-guide-c28b8dc8b78d?source=rss-4cc4d6d34b75------2)
 - [Laravel Dynamic Pagination](https://medium.com/@ahmedesa/laravel-dynamic-pagination-898a7d4f5fe4?source=rss-4cc4d6d34b75------2)
 <!-- BLOG-POST-LIST:END -->
