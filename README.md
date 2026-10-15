@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Esa</h1>
 <h3 align="center">A passionate Backend developer from Egypt</h3>
 
-- 🌱 I’m currently learning **GoLang**
+- ⚙️ I’ve used **Go** in production for ~3 years (Gin, Fiber, Echo), e.g. I rewrote a matching service in Go and cut it from 45s to 5s
+
+- 📦 I maintain [Laravel API Toolkit](https://github.com/ahmedesa/laravel-api-tool-kit) ([`essa/api-tool-kit`](https://packagist.org/packages/essa/api-tool-kit) on Packagist, 100K+ installs)
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -18,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-esa-724864158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-esa-724864158" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-esa-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-esa-" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmedesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedesa" height="30" width="40" /></a>
 </p>
 
